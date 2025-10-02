@@ -10,12 +10,39 @@ const moviesFromServer = [
     title: 'Inception',
     description:
       'Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.',
-    imageUrl:
+    imgUrl:
       'https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg',
-    imdbLink: 'https://www.imdb.com/title/tt1375666',
+    imdbUrl: 'https://www.imdb.com/title/tt1375666',
   },
   {
     id: 2,
+    title: 'Love Actually',
+    description:
+      'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.',
+    imageUrl:
+      'https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_.jpg',
+    imdbLink: 'https://www.imdb.com/title/tt0314331',
+  },
+  {
+    id: 3,
+    title: 'Love Actually',
+    description:
+      'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.',
+    imageUrl:
+      'https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_.jpg',
+    imdbLink: 'https://www.imdb.com/title/tt0314331',
+  },
+  {
+    id: 4,
+    title: 'Love Actually',
+    description:
+      'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.',
+    imageUrl:
+      'https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_.jpg',
+    imdbLink: 'https://www.imdb.com/title/tt0314331',
+  },
+  {
+    id: 5,
     title: 'Love Actually',
     description:
       'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.',
